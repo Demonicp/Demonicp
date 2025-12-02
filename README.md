@@ -1,16 +1,77 @@
-## Hi there 👋
+<!-- Centered Header -->
+<h1 align="center">👋 Hi, I'm Juan David</h1>
+<h3 align="center">Software Development Student | Backend • Databases • Web Applications</h3>
 
-<!--
-**Demonicp/Demonicp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Software Development Technology** student at **Universidad del Valle** (4th semester).  
+I'm passionate about **web application development**, **relational databases**, **backend technologies**, and continuously improving my ability to build efficient and scalable software.
+
+I enjoy learning new tools, working on real-world projects, and strengthening my skills as a developer.
+
+---
+
+## 🎯 Interests
+
+- 🌐 **Web application development**  
+- 🗄️ **Relational databases**  
+- ⚙️ **Backend technologies (Java, Spring Boot)**  
+- 🧠 Improving code quality & best practices  
+- 🚀 Building clean, efficient, and scalable applications  
+
+---
+
+## 📚 Currently Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,spring,mysql" />
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,oracle,vue,js" />
+</p>
+
+### Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+---
+
+## 📌 Career Objective
+
+I'm looking for **internship opportunities** or a **junior developer role** where I can apply my knowledge, grow professionally, and contribute to impactful projects.
+
+---
+
+## 📂 Featured Projects
+*(Add your repositories here when you want to showcase them)*
+
+---
+
+## 📈 GitHub Stats
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demonicp&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Demonicp&show_icons=true&theme=default)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/juan-david-ortiz-valdes-6683b0306/  
+- 🧑‍💻 **GitHub:** https://github.com/Demonicp  
+- 📧 **Email:** diosbend@gmail.com  
+
+---
+
+
+
