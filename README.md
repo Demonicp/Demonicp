@@ -58,8 +58,4 @@ I'm currently learning **Vue.js**, **Spring Boot**, and **MySQL**, and I'm alway
 
 ---
 
-## 🎨 Banner
 
-> *"Software Developer in Progress 🚀 | Web Development | Databases | Always Learning"*
-
-If you want, I can design a **custom graphic banner** for your GitHub profile — just tell me the style (minimal, dark, neon, tech, gamer, etc.).
