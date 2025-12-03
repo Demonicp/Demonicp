@@ -37,12 +37,13 @@ I'm currently learning **Vue.js**, **Spring Boot**, and **MySQL**, and I'm alway
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" />
 </p>
 
----
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Demonicp&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=Demonicp&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Demonicp&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Demonicp&layout=compact&theme=tokyonight)
+
 
 
 
