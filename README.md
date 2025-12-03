@@ -40,9 +40,12 @@ I'm currently learning **Vue.js**, **Spring Boot**, and **MySQL**, and I'm alway
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=Demonicp&show_icons=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Demonicp&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Demonicp&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Demonicp&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Demonicp&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Demonicp&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Demonicp&layout=compact&theme=tokyonight)
 
 
 
