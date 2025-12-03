@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Juan David Ortiz
+o# Hi there! 👋 I'm Juan David Ortiz
 
 ### Aspiring Software Developer | Interested in Web Application Development & Databases  
 ### Willing to learn new technologies and constantly improve my skills 🚀
@@ -50,7 +50,7 @@ I'm currently learning **Vue.js**, **Spring Boot**, and **MySQL**, and I'm alway
 
 - **LinkedIn:** [Juan David Ortiz Valdes](https://www.linkedin.com/in/juan-david-ortiz-valdes-6683b0306/)  
 - **Email:** diosbend@gmail.com  
-- **GitHub:** [github.com/juandavid2355721](https://github.com/juandavid2355721)
+- **GitHub:** [github.com/Demonicp(https://github.com/Demonicp
 
 ---
 
