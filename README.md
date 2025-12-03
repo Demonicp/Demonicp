@@ -3,7 +3,7 @@
 </p>
 
 
-o# Hi there! 👋 I'm Juan David Ortiz
+### Hi there! 👋 I'm Juan David Ortiz
 
 ### Aspiring Software Developer | Interested in Web Application Development & Databases  
 ### Willing to learn new technologies and constantly improve my skills 🚀
