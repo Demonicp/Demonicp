@@ -38,9 +38,6 @@ I'm currently learning **Vue.js**, **Spring Boot**, and **MySQL**, and I'm alway
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Demonicp&show_icons=true&theme=tokyonight)
@@ -48,7 +45,6 @@ I'm currently learning **Vue.js**, **Spring Boot**, and **MySQL**, and I'm alway
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Demonicp&layout=compact&theme=tokyonight)
 
 
----
 
 ## 🔗 Connect With Me
 
