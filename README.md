@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./giphy.gif" alt="Banner" />
+</p>
+
+
 o# Hi there! 👋 I'm Juan David Ortiz
 
 ### Aspiring Software Developer | Interested in Web Application Development & Databases  
