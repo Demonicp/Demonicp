@@ -41,9 +41,12 @@ I'm currently learning **Vue.js**, **Spring Boot**, and **MySQL**, and I'm alway
 
 ## 📊 GitHub Stats
 
-![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juandavid2355721&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juandavid2355721&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Demonicp&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Demonicp&layout=compact&theme=tokyonight)
+
 
 ---
 
